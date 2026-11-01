@@ -24,7 +24,7 @@
   "author": "Edd Yerburgh",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.29.6",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "29.x",
     "conventional-changelog": "^1.1.5",
